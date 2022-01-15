@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    font-size: 100%;
 }
 
 *{
@@ -8,6 +9,7 @@ body {
 
 #headingPage{
     text-align: center;
+    font-size: 175%;
 }
 
 .container{
@@ -33,11 +35,13 @@ body {
     padding: 2% 10% 2% 10%;
     text-align: center;
     font-weight: bold;
+    font-size: 125%;
 }
 
 .sectionContent{
     padding: 10px;
     clear: right;
+    font-size: 100%;
 }
 
 #sectionTitle1{
@@ -45,6 +49,7 @@ body {
 }
 #sectionTitle2{
     background-color: #d1383d;
+    color: white;
 }
 #sectionTitle3{
     background-color: #e9d090;
